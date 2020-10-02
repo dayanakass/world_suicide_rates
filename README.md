@@ -1,1 +1,1 @@
-# Project-of-Analysis
+# Analysis of Worldwide Suicide Rates
